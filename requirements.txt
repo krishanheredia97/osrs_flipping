@@ -1,0 +1,6 @@
+requests>=2.31.0
+pandas>=2.1.0
+matplotlib>=3.7.1
+numpy>=1.24.3
+cudf-cu12>=23.8.0  # For GPU acceleration
+cupy-cuda12x>=12.2.0  # For GPU acceleration
